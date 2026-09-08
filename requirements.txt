@@ -1,1 +1,2 @@
 # No external dependencies - standard library only
+pytest  # for running tests/
